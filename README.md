@@ -49,8 +49,6 @@ This project analyzes customer behavior, retention patterns, and lifetime value 
 
 **📈 Visualization:**
 
-> ⚠️ Note: This only includes 2 charts. 
-
 Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date 
 
 <img src="Images/2_customer_revenue_normalized.png" alt="Customer Revenue Normalized" width="50%">
