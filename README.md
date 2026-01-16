@@ -1,4 +1,4 @@
-# Intermediate SQL - Sales & Customer Analysis
+# SQL - Sales & Customer Analysis
 
 ## Overview
 This project analyzes customer behavior, retention patterns, and lifetime value (LTV) for an e-commerce business. The goal is to uncover actionable insights that improve customer retention, stabilize revenue, and maximize long-term profitability using SQL-driven analysis.
